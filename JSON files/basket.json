@@ -8,13 +8,6 @@
             "price": 1000,
             "img": "https://raw.githubusercontent.com/evsik/static/master/SHOP(IMGS)/Fetured1.jpg",
             "quantity": 2
-        },
-        {
-            "id_product": 123,
-            "product_name": "MANGO PEOPLE T-SHIRT",
-            "price": 1000,
-            "img": "https://raw.githubusercontent.com/evsik/static/master/SHOP(IMGS)/Fetured1.jpg",
-            "quantity": 1
         }
     ]
 }
